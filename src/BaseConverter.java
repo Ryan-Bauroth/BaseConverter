@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+//hehe i steal https://docs.oracle.com/javase/7/docs/api/javax/swing/JFileChooser.html,https://docs.oracle.com/javase/8/docs/api/javax/swing/JFileChooser.html, https://www.geeksforgeeks.org/java-swing-jfilechooser/#:~:text=JFileChooser%20is%20a%20part%20of,%2C%20panels%2C%20dialogs%2C%20etc%20.
+
 /**
  * Base convert from any base (2-16) to another base (2-16)
  * @Author Ryfi
